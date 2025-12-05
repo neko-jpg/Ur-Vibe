@@ -1,11 +1,5 @@
 # Ur-Vibe ⚡🔮
 
-\<div align="center"\>
-\<img src="[https://placehold.co/1200x400/1a1a2e/bc13fe?text=Ur-Vibe+Game+Preview](https://www.google.com/search?q=https://placehold.co/1200x400/1a1a2e/bc13fe%3Ftext%3DUr-Vibe%2BGame%2BPreview)" alt="Ur-Vibe Banner" width="100%" /\>
-\</div\>
-
-\<br /\>
-
 **「あいつ、本当はそんなこと考えてたの？」**
 
 **Ur-Vibe（ユア・バイブ）** は、友達の「意外な一面」をベットして遊ぶ、新感覚の**匿名価値観バトルゲーム**です。
